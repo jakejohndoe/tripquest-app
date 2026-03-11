@@ -4,7 +4,7 @@
 
 TripQuest is a travel app that builds AI-generated itineraries based on your preferences. Fly into a city you've never been to, open TripQuest, set your preferences, and the AI builds you a quest -- a series of nearby locations to complete. Check in at each stop, earn TRIPQ tokens and NFT badges as rewards.
 
-**Core loop:** Set preferences → AI generates quest → navigate to locations → check in → earn rewards
+**Core loop:** Set preferences → AI generates quest → navigate to locations → check in → earn rewards!
 
 ---
 
